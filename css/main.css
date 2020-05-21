@@ -18,7 +18,15 @@ nav {
     font-family: Arial, Helvetica, sans-serif;
     padding: .5em 0em;
 }
-
+.flex-item {
+    flex: 1;
+    margin: 1em;
+    background-color: #5F7CBE;
+}
+.section-item {
+    width: 100%;
+    margin: 0 auto;
+}
 
 nav a {
     color: #7E2929;
